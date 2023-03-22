@@ -2,6 +2,8 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*56ACHLa7d4YEXlfumEXkmg.jpeg">
 
+## Microsoft Excel :
+
 In the first part of the project, I analyzed the dataset, addressed missing values and generated visual charts by using the Microsoft Excel Data Analysis tool.
 
 For cholestoral:
@@ -16,9 +18,10 @@ Normal Probability Plot after handling missing values:
 
 ![Shot 0012](https://user-images.githubusercontent.com/122119114/224884500-ad8a2087-3c8c-457e-b8cb-722f73074c04.png)
 
----
+
 <img align=right src="https://jupiter-analytics.com/wp-content/uploads/2021/02/ibm_spss_modeler_logo.jpg">
 
+## IBM SPSS Modeler :
 
 In the second part, The objective of the project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset bu using IBM SPSS Modeler. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
