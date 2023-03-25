@@ -1,5 +1,10 @@
 # Pima_Indians_Diabetes_IBM_SPSS_Modeler_and_Microsoft_Excel
 
+- [Final IBM SPSS MODELER Project File](https://github.com/mahyarsab/Pima_Indians_Diabetes_IBM_SPSS_Modeler_and_Microsoft_Excel/blob/main/Mahyar_Sabouniaghdam_Final_Stream.str)
+
+- [Final Microsoft Excel Project File](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmahyarsab%2FPima_Indians_Diabetes_IBM_SPSS_Modeler_and_Microsoft_Excel%2Fmain%2F1.%2520Mahyar_Data_Analysis_using_Excel%2FHeart_Data_Final.xlsx&wdOrigin=BROWSELINK)
+
+
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*56ACHLa7d4YEXlfumEXkmg.jpeg">
 
 ## Microsoft Excel :
